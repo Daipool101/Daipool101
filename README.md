@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akash jaiswal
-- 👀 I’m interested in AI/ML/LLM/Data analyst
+- 👀 I’m interested in AI/ML/Data science/Data analyst/LLM
 - 🌱 I’m currently learning machine learnig
 - 📫 How to reach me DM me 
 - ⚡ Fun fact: stay touched with me for intresting projects
